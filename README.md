@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey there! I'm Kalyan Tingani👋 
 
-<!--
-**kalyan-2005/kalyan-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a 3rd-year Computer Science student at **VNR Vignana Jyothi Institute of Engineering and Technology**, Hyderabad — on a mission to **build impactful tech**, grow as a **software engineer**, and contribute to the **global developer community**. 
 
-Here are some ideas to get you started:
+## 📚 My Tech Toolbox
+- **Languages**: C++, TypeScript, JavaScript, SQL, Python (ML), HTML, CSS
+- **Frameworks & Libraries**: React.js, Next.js, Tailwind CSS, Node.js, Express.js, Angular
+- **Databases**: PostgreSQL, MongoDB, Prisma, Drizzle ORM
+- **DevOps**: Docker, AWS EC2, S3, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 I'm Passionate About
+- Building tools that **empower communities**
+- Writing **clean, maintainable code** with purpose
+- Solving **real-world problems**
+- Mentoring, collaborating, and **sharing knowledge**
+
+## 🤝 Looking to Collaborate!
+- 📬 Reach me at: **kalyantingani@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/kalyantingani/)
+
+---
+
+> “The best way to predict the future is to invent it.” – Alan Kay  
+Thanks for visiting! If you like my work, feel free to ⭐️ the repos or drop a message. Let’s build something amazing together!
+
