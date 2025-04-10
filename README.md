@@ -2,6 +2,7 @@
 
 I’m a 3rd-year Computer Science student at **VNR Vignana Jyothi Institute of Engineering and Technology**, Hyderabad — on a mission to **build impactful tech**, grow as a **software engineer**, and contribute to the **global developer community**. 
 
+
 ## 📚 My Tech Toolbox
 - **Languages**: C++, TypeScript, JavaScript, SQL, Python (ML), HTML, CSS
 - **Frameworks & Libraries**: React.js, Next.js, Tailwind CSS, Node.js, Express.js, Angular
@@ -18,7 +19,7 @@ I’m a 3rd-year Computer Science student at **VNR Vignana Jyothi Institute of E
 - 📬 Reach me at: **kalyantingani@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/kalyantingani/)
 
----
+
 
 > “The best way to predict the future is to invent it.” – Alan Kay  
 Thanks for visiting! If you like my work, feel free to ⭐️ the repos or drop a message. Let’s build something amazing together!
