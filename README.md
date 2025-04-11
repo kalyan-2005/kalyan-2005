@@ -4,7 +4,7 @@ I’m a 3rd-year Computer Science student at **VNR Vignana Jyothi Institute of E
 
 
 ## 📚 My Tech Toolbox
-- **Languages**: C++, TypeScript, JavaScript, SQL, Python (ML), HTML, CSS
+- **Languages**: C++, TypeScript, JavaScript, SQL, HTML, CSS, C/C++
 - **Frameworks & Libraries**: React.js, Next.js, Tailwind CSS, Node.js, Express.js, Angular
 - **Databases**: PostgreSQL, MongoDB, Prisma, Drizzle ORM
 - **DevOps**: Docker, AWS EC2, S3, GitHub Actions
