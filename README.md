@@ -1,6 +1,6 @@
 # Hey there! I'm Kalyan Tingani👋 
 
-I’m a 3rd-year Computer Science student at **VNR Vignana Jyothi Institute of Engineering and Technology**, Hyderabad — on a mission to **build impactful tech**, grow as a **software engineer**, and contribute to the **global developer community**. 
+I’m a 4th-year Computer Science student at **VNR Vignana Jyothi Institute of Engineering and Technology**, Hyderabad — on a mission to **build impactful tech**, grow as a **software engineer**, and contribute to the **global developer community**. 
 
 
 ## 📚 My Tech Toolbox
