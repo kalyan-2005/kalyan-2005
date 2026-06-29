@@ -51,7 +51,7 @@ Currently focused on building scalable AI-powered SaaS products.
 <div align="left">
 
 <a href="https://nodem.in" target="_blank">
-  <img src="/nodem.png" width="90" alt="Nodem"/>
+  <img src="logo_w_b_rounded.png" width="50" alt="Nodem"/>
 </a>
 
 ### [Nodem](https://nodem.in)
@@ -63,7 +63,7 @@ Visual workflow automation platform for Instagram creators.
 <br>
 
 <a href="https://github.com/Tutly-LMS" target="_blank">
-  <img src="/tutly.png" width="90" alt="Tutly"/>
+  <img src="Tutly_logo.png" width="50" alt="Tutly"/>
 </a>
 
 ### [Tutly](https://tutly.in)
